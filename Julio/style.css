@@ -12,10 +12,10 @@
 
 .card {
     position: absolute;
-    left: 35%;
+    left: 40%;
     background-color: aliceblue;
-    width: 400px;
-    height: 400px;
+    width: 410px;
+    height: 410px;
     border-radius: 4px;
 }
 
@@ -26,8 +26,8 @@
 
 .logo {
 
-    height: 100px;
-    margin-left: 70px;
+    height: 70px;
+    margin-left: 130px;
     border-radius: 30px;
 
 }
